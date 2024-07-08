@@ -1,0 +1,12 @@
+next js give automatic routing through folder name.
+
+framework-->it is more rule restricted.
+libary-->it's not more rule restricted.
+file structure under folder is same (page,layout)
+
+UL FREAMEWORK:
+aceternity ui
+
+use ACERTINITY UI:
+1) npm i framer-motion clsx tailwind-merge(add navbar menu)
+2)npm i framer-motion clsx tailwind-merge(spotlight effect)
